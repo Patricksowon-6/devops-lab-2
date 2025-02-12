@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("This is another string!");
+	printf("Welcome!");
 }
